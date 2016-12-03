@@ -1,12 +1,7 @@
----
-# THEME GEM USAGE - visit https://github.com/Shopify/shopify_theme
-# Get your api_key and password at your-url.myshopify.com/admin/apps/private
-
-# example code
-:api_key: 52ba03f2e17a1d24dafe1002b2bcddea
-:password: 177e715c47bf6529c2b877bd6c379198
-:store: your-url.myshopify.com
-:theme_id:
+:api_key: 135d9553b7040a90fc402da2546cb657
+:password: 1bf963be2ec1d015b6e3eb6aa383e3dd
+:store: tabarnapp.myshopify.com
+:theme_id: "155541894"
 :ignore_files:
-  # - settings_data.json
-  # - logo.png
+  - settings_data.json
+  - logo.png
